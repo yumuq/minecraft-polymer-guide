@@ -4,6 +4,9 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/yumuq/minecraft-polymer-guide)
+[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue.svg)](https://yumuq.github.io/minecraft-polymer-guide/)
+
+**📖 在线阅读：** https://yumuq.github.io/minecraft-polymer-guide/
 
 ---
 
