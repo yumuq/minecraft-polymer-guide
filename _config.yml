@@ -1,46 +1,5 @@
 theme: jekyll-theme-cayman
 title: Minecraft Polymer 适配指南
-description: 完整的 Polymer 模组适配教程和参考手册
-
-# 启用导航
-navigation:
-  - title: 开始
-    items:
-      - name: 📚 文档导航
-        url: 00-导航.md
-      - name: 💡 核心概念
-        url: 01-核心概念.md
-      - name: 📖 理论基础
-        url: 02-理论基础.md
-      - name: 🔍 模组分类
-        url: 03-模组分类.md
-
-  - title: 实战指南
-    items:
-      - name: 🔧 环境准备
-        url: 04-环境准备.md
-      - name: ⚙️ 适配流程
-        url: 05-适配流程.md
-      - name: 📝 代码模板
-        url: 06-代码模板.md
-
-  - title: 问题解决
-    items:
-      - name: 🐛 常见错误
-        url: 07-常见错误.md
-      - name: 🔥 疑难杂症
-        url: 08-疑难杂症.md
-
-  - title: 案例分析
-    items:
-      - name: 📦 Easy Anvils
-        url: 09-案例-EasyAnvils.md
-      - name: 📦 Quick Shulker
-        url: 10-案例-QuickShulker.md
-
-  - title: 参考资料
-    items:
-      - name: ⭐ 最佳实践
-        url: 11-最佳实践.md
-      - name: 🔖 快速参考
-        url: 12-快速参考.md
+description: 完整的 Polymer 模组适配教程和参考手册 · 基于实战经验编写
+show_downloads: false
+google_analytics:
